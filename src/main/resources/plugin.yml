@@ -2,3 +2,4 @@ name: CreeperHeal
 version: '${version}'
 main: org.pythonchik.creeperheal.CreeperHeal
 api-version: '1.20'
+

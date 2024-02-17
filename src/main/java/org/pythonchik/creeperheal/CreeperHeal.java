@@ -46,6 +46,7 @@ public final class CreeperHeal extends JavaPlugin implements Listener {
         }
     }
 
+
     @EventHandler
     public void onEntityExplode(EntityExplodeEvent event) {
         if (event.getEntityType().equals(EntityType.CREEPER)) {
